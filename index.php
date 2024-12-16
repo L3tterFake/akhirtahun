@@ -252,7 +252,7 @@ function createHearts() {
     function katanimasiAlts(){
         new TypeIt(".messageC", {
         strings: [
-				    "Sebelum tahun 2024 ini berakhir, aku mau bilang makasihhh banget udah jadi part yang paling indah buat aku, kamu yang selalu ada buat aku, selalu nemenin hari hari aku, makasihh jugaa udah jadi rumah yang paling nyaman yang pernah aku tempati.",
+		"Sebelum tahun 2024 ini berakhir, aku mau bilang makasihhh banget udah jadi part yang paling indah buat aku, kamu yang selalu ada buat aku, selalu nemenin hari hari aku, makasihh jugaa udah jadi rumah yang paling nyaman yang pernah aku tempati.",
                     "<br>Terimakasih buat semuanyaa, dan aku bersyukur banget, di tahun yang melelahkan ini, aku dihadirkan seseorang yang sangat sempurna di mataku 💐", 
 				    "<br><b>Intinya aku bersyukur banget bisa ketemu sama kamuu.Araaa!!! ✨</b>",
                     "<br>Kedepannya bareng-bareng terus yaa... Aku gamau kehilangan kamu dan semoga di tahun yang akan datang kita bisa terus bahagia ya 🫶",
